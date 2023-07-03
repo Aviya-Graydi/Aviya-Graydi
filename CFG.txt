@@ -1,0 +1,69 @@
+Start	Program	
+Program	FunctionDefinition	
+|	IdentifierDefinition	
+|	Assignment	
+|	Print	
+|	Condition	
+|	Loop	
+|	FunctionCalling	
+|	Program	Program	
+IdentifierDefinition	<null>	
+Assignment	identifier	=	AssignmentValue	
+|	identifier	+=	AssignmentValue	
+|	++	identifier	
+|	identifier	++	
+AssignmentValue	AssignmentValue	+	Value	
+|	T	
+|	Input	.	
+T	T	*	Value	
+|	Value	
+Value	identifier	
+|	5	
+|	3.5	
+|	'str'	
+|	true	
+|	false	
+|	"str"	
+|	FunctionCalling	.	
+Input	input	(	PrintValue	)	
+Print	print	(	PrintValue	)	
+Condition	if	(	ConditionalExpression	)	{	Program	}	Elif	Else	
+Elif	elif	(	ConditionalExpression	)	{	Program	}	
+|	<null>	;	
+Else	else	{	Program	}	
+|	<null>	
+Loop	For	
+|	While	
+FunctionDefinition	function	identifier	(	)	{	Program	}	
+FunctionCalling	identifier	(	)	
+PrintValue	AssignmentValue	
+|	PrintValue	,	PrintValue	
+|	<null>	
+ConditionalExpression	Value	.	
+|	Value	ComparisonOperator	Value	
+|	ConditionalExpression	LogicalOperator	ConditionalExpression	
+|	not	ConditionalExpression	
+|	(	ConditionalExpression	)	
+Body	IdentifierDefinition	
+|	Assignment	
+|	Input	
+|	Print	
+|	Condition	
+|	Loop	
+|	FunctionCalling	
+|	Body	Body	
+ComparisonOperator	==	
+|	>=	
+|	<=	
+|	>	
+|	<	
+LogicalOperator	and	
+|	or		
+For	for	(	identifier	in	Sequence	)	{	Program	}	
+Sequence	range	(	100	)	
+|	'str'	.	
+While	while	(	ConditionalExpression	)	{	Program	}	
+ArgumentsDefinition	identifier	
+|	<null>	
+ArgumentsCall	identifier	
+|	<null>	

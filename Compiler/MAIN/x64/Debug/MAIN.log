@@ -1,0 +1,84 @@
+﻿  Main.c
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(188,8): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(189,8): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(190,8): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(405,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(405,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(457,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(457,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(505,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(505,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\Token.c(542,7): warning C4101: 'name': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(38,1): warning C4029: declared formal parameter list different from definition
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(82,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(82,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(221,6): warning C4101: 'idNonTerminal': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(220,12): warning C4101: 't': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(222,6): warning C4101: 'idTerminal': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(611,94): warning C4020: 'strcpy_s': too many actual parameters
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(913,99): warning C4020: 'strcpy_s': too many actual parameters
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(655,7): warning C4101: 's': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\CFG.c(646,6): warning C4101: 'size': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\FillDFA.C(47,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\FillDFA.C(47,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\FillDFA.C(222,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\FillDFA.C(222,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\FillDFA.C(461,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\FillDFA.C(461,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\FillDFA.C(513,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\FillDFA.C(513,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\LEXICAL\FillDFA.C(497,8): warning C4101: 'stringBuffer': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\AST.c(7,1): warning C4029: declared formal parameter list different from definition
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\AST.c(15,18): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\AST.c(22,24): warning C4028: formal parameter 1 different from declaration
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\AST.c(22,33): warning C4028: formal parameter 2 different from declaration
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\AST.c(22,49): warning C4028: formal parameter 3 different from declaration
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\AST.c(55,26): warning C4133: 'function': incompatible types - from 'AST *' to 'AST *'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\Stack.c(63,9): warning C4033: 'peek' must return a value
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\Parser.c(120,7): warning C4101: 'father': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(44,13): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(44,8): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(48,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(48,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(103,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[255]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(103,10): warning C4024: 'fgets': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(159,8): warning C4133: 'initializing': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(125,6): warning C4101: 'R': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(124,6): warning C4101: 'L': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(251,17): warning C4553: '==': result of expression not used; did you intend '='?
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(264,8): warning C4133: 'initializing': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(302,19): warning C4553: '==': result of expression not used; did you intend '='?
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(305,8): warning C4133: 'initializing': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(328,9): warning C4133: 'initializing': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(443,4): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(351,6): warning C4101: 'type': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SEMANTIC\FillSemanticConstraints.c(354,6): warning C4101: 'element': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(83,23): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[1000]'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(83,8): warning C4024: 'fputs': different types for formal and actual parameter 1
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(28,18): warning C4101: 'type': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(42,8): warning C4101: 'a': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(28,6): warning C4101: 'identifier': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(102,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(109,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(163,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(181,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(198,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(214,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(231,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(246,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(268,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(299,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(337,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(352,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(389,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(409,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(441,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(458,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(471,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(489,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(506,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(534,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(554,7): warning C4133: '=': incompatible types - from 'AST **' to 'AST **'
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\CODE_GENERATION\CodeGeneration.c(95,7): warning C4101: 'value': unreferenced local variable
+D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\SYNTACTIC\Stack.c(66): warning C4715: 'peek': not all control paths return a value
+  MAIN.vcxproj -> D:\אביה\הנדסת תוכנה\פרוייקט\Compiler\x64\Debug\MAIN.exe

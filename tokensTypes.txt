@@ -1,0 +1,7 @@
+keyword	
+operator	
+identifier	
+constant	
+punctuation	
+exeption	
+type	

@@ -1,0 +1,8 @@
+ok	
+err	
+op	
+int	
+float	
+string	
+char	
+bool	
